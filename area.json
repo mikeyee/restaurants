@@ -4,6 +4,16 @@
     {
       "name": "怡和",
       "children": [
+        {
+          "name": "",
+          "size": 110,
+          "icon": "img/pizzahut.png"
+        },
+        {
+          "name": "",
+          "size": 60,
+          "icon": "img/kfc.jpg"
+        },
     {
       "name": "美心",
       "children": [
