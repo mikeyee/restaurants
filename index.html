@@ -126,7 +126,7 @@ function zoom(d, i) {
   t.selectAll("text")
       .attr("x", function(d) { return x(d.x); })
       .attr("y", function(d) { return y(d.y+(d.children ? -d.r/1.5:0)); })
-      .style("opacity", function(d) { return k * d.r > (d.children ? 20:20) ? 1 : 0; });
+      .style("opacity", function(d) { return k * d.r > (d.children ? 10:20) ? 1 : 0; });
 
   t.selectAll("image")
       .attr("x", function(d) { return x(d.x-d.r*0.8/2); })
