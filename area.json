@@ -315,8 +315,9 @@
           "size": 10
         },
         {
-          "name": "百分百餐廳",
-          "size": 21
+          "name": "",
+          "size": 21,
+          "icon": "cafe100.png"
         },
         {
           "name": "Itamama",
