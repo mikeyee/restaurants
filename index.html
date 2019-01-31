@@ -87,7 +87,7 @@ d3.json("area.json", function(data) {
     .enter().append("svg:text")
       .attr("class", function(d) { return d.children ? "parent" : "child"; })
       .attr("x", function(d) { return d.x; })
-      .attr("y", function(d) { return d.children ? d.y-d.r/1.5:d.y;})
+      .attr("y", function(d) { return d.y-d.r;})
       .attr("dy", ".35em")
       .attr("text-anchor", "middle")
       .style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
@@ -125,7 +125,7 @@ function zoom(d, i) {
 
   t.selectAll("text")
       .attr("x", function(d) { return x(d.x); })
-      .attr("y", function(d) { return y(d.y+(d.children ? -d.r/1.5:0)); })
+      .attr("y", function(d) { return y(d.y-d.r); })
       .style("opacity", function(d) { return k * d.r > (d.children ? 20:20) ? 1 : 0; });
 
   t.selectAll("image")
