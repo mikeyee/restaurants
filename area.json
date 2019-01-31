@@ -13,9 +13,7 @@
           "name": "",
           "size": 60,
           "icon": "img/kfc.jpg"
-        }    
-    ]
-    },
+        },
     {
       "name": "美心",
       "children": [
@@ -151,6 +149,8 @@
           "size": 7
         }
       ]
+    }
+    ]
     },
     {
       "name": "大快活",
