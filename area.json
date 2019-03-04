@@ -490,6 +490,59 @@
           "size": 3
         }
       ]
-    }
+    },
+    {
+      "name": "嚐‧高美",
+      "children": [
+        {
+          "name": "品越越式料理",
+          "size": 5
+        },
+        {
+          "name": "牛氣",
+          "size": 4
+        },
+        {
+          "name": "Say Cheese",
+          "size": 3
+        },
+        {
+          "name": "Parkview",
+          "size": 3
+        },
+        {
+          "name": "浦和日本料理",
+          "size": 1
+        },
+        {
+          "name": "稻成亞丁",
+          "size": 1
+        },
+        {
+          "name": "稻成小館",
+          "size": 1
+        },
+        {
+          "name": "Sweet-o-logy",
+          "size": 1
+        },
+        {
+          "name": "稻成京川滬",
+          "size": 1
+        },
+        {
+          "name": "Rakuraku樂拉麵",
+          "size": 1
+        },
+        {
+          "name": "The Pho",
+          "size": 1
+        },
+        {
+          "name": "Madam Saigon",
+          "size": 1
+        }
+      ]
+    },
   ]
 }    
