@@ -499,12 +499,14 @@
           "size": 5
         },
         {
-          "name": "牛氣",
+          "name": "",
           "size": 4
+          "icon": "img/nabeurawa.jpg"
         },
         {
-          "name": "Say Cheese",
-          "size": 3
+          "name": "",
+          "size": 3,
+          "icon": "img/saycheese.jpg"
         },
         {
           "name": "Parkview",
