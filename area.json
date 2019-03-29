@@ -382,6 +382,21 @@
       ]
     },
     {
+      "name": "通用磨坊",
+      "children": [
+        {
+          "name": "",
+          "size": 22,
+          "icon": "img/haagendazs.jpg"
+        },
+        {
+          "name": "",
+          "size": 10,
+          "icon": "img/wanchaipier.png"
+        }
+      ]
+    },
+    {
       "name": "華潤創業",
       "children": [
         {
