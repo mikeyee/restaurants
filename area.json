@@ -524,6 +524,30 @@
       ]
     },
     {
+      "name": "BreadTalk",
+      "children": [
+        {
+          "name": "",
+          "size": 7,
+          "icon": "img/breadtalk.png"
+        },
+        {
+          "name": "",
+          "size": 13,
+          "icon": "img/toastbox.jpg"
+        },
+        {
+          "name": "",
+          "size": 5,
+          "icon": "img/foodrepublic.png"
+        },
+        {
+          "name": "三巡小廚",
+          "size": 1
+        }
+      ]
+    },
+    {
       "name": "嚐‧高美",
       "children": [
         {
